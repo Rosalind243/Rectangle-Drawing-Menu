@@ -1,5 +1,7 @@
 ## Rectangle Drawing Configuration Menu
 
+<img width="1161" height="536" alt="image" src="https://github.com/user-attachments/assets/e548ee3d-7aa4-42f7-87e9-671ab282c58c" />
+
 This menu allows users to configure how rectangles are drawn in the console. It is accessible from **Case 1** of the main menu.
 
 <img width="801" height="273" alt="image" src="https://github.com/user-attachments/assets/f2ceb323-4d93-4f96-ac97-ea48db934fd4" />
