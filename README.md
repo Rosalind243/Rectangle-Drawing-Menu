@@ -1,8 +1,9 @@
-## Rectangle Drawing Configuration Menu
 
 <img width="1161" height="536" alt="image" src="https://github.com/user-attachments/assets/e548ee3d-7aa4-42f7-87e9-671ab282c58c" />
 
-### This menu allows users to configure how rectangles are drawn in the console. It is accessible from **Case 1** of the main menu.
+## Rectangle Drawing Configuration Menu
+
+This menu allows users to configure how rectangles are drawn in the console. It is accessible from **Case 1** of the main menu.
 
 <img width="801" height="273" alt="image" src="https://github.com/user-attachments/assets/f2ceb323-4d93-4f96-ac97-ea48db934fd4" />
 
@@ -35,7 +36,7 @@ This menu allows users to customize the format and field widths for printing num
 
 <img width="781" height="239" alt="image" src="https://github.com/user-attachments/assets/40513098-8e1b-4d36-bd22-af4a17803df2" />
 
-### Case 2: Configure Print Number Options
+## Case 2: Configure Print Number Options
 
 - The user is shown Menu 2 and prompted to select an option from `0 – 5`.
 - To prevent invalid inputs from defaulting to `0` and exiting the menu, the program initializes the option variable to `6` to keep the loop running until a valid input is provided.
@@ -100,6 +101,9 @@ This case allows the user to input custom dimensions for a rectangle, validate t
 
 6. **Looping**
    - The drawing process continues until all rows and columns are filled, completing the rectangle.
+
+  
+## Number Transformation and Formatting
 
 ### Case 4: Input Number and Display Formatted Outputs
 
