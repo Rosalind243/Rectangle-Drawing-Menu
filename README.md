@@ -121,6 +121,8 @@ This case allows the user to input a number, which the system then formats and d
 2. **Return**
    - After displaying all formatted outputs, the system returns to the main menu automatically.
 
+## Exit Program
+
 ### Case 5: Terminate the Application
 
 - If the user inputs **5**, the system will safely terminate and close the program.
